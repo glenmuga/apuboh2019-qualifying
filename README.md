@@ -1,7 +1,7 @@
-# apuboh2019-qualifying
+# APU Battle of Hackers 2019 - Qualifying Round
 Writeup for APU Battle of Hackers 2019 Qualifying Round
 
-## Tasks
+## Challenges
 - [doge](doge/README.md)
 - [innocent](innocent/README.md)
 - [insult](insult/README.md)
