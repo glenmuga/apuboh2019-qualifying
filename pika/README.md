@@ -1,7 +1,5 @@
 # Pikachu
 
-Download the question from [here]().
-
 For this challenge, we had help from [Team SKR](https://tworeal.appspot.com/).
 
 We are given a .mp4 file that plays a Rick Ashley song.
