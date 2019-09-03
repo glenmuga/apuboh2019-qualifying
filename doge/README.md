@@ -1,5 +1,4 @@
-# Doge
-### Steganography Challenge 
+# Doge 
 
 We are given a zip file, we can unzip it with `unzip le_epic_flag_doge.zip`. Once extracted, we are given the infamous doge picture called le_epic_flag_doge.png. 
 
@@ -26,7 +25,7 @@ Explanation: -
 - `-r`: recursive to look into all directories.
 - `-l`: to display the directories that match `apuboh`.
 
-It tells us the flag is hidden in directory `word/document.xml`. Opening it up we can see the flag that is hidden in 2 parts.
+It tells us the flag is in the directory `word/document.xml`. Opening it up we can see the flag that is hidden in 2 parts.
 
 ### Flag
 Flag `apuboh2019{mfw_d0g3_f14g}`
