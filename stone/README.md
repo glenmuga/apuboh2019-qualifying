@@ -14,4 +14,4 @@ The result will be the flag.
 
 ### Flag
 
-Flag: APUBOH2019{ANC13NT_R3L1C5}
+Flag: apuboh2019{anc13nt_r3l1cs}
